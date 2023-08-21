@@ -29,4 +29,3 @@
             file: ./Dockerfile.linux_x64
             push: true
             tags: ${{ secrets.DOCKER_USERNAME }}/receipt-wrangler-proxy:latest
-  
